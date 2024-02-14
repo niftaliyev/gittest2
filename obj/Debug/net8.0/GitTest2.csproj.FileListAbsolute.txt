@@ -1,0 +1,15 @@
+D:\JedAcademyCSharp\GitTest2\GitTest2\bin\Debug\net8.0\GitTest2.exe
+D:\JedAcademyCSharp\GitTest2\GitTest2\bin\Debug\net8.0\GitTest2.deps.json
+D:\JedAcademyCSharp\GitTest2\GitTest2\bin\Debug\net8.0\GitTest2.runtimeconfig.json
+D:\JedAcademyCSharp\GitTest2\GitTest2\bin\Debug\net8.0\GitTest2.dll
+D:\JedAcademyCSharp\GitTest2\GitTest2\bin\Debug\net8.0\GitTest2.pdb
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.AssemblyInfoInputs.cache
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.AssemblyInfo.cs
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.csproj.CoreCompileInputs.cache
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.sourcelink.json
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.dll
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\refint\GitTest2.dll
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.pdb
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\GitTest2.genruntimeconfig.cache
+D:\JedAcademyCSharp\GitTest2\GitTest2\obj\Debug\net8.0\ref\GitTest2.dll
